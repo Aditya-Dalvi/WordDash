@@ -190,17 +190,6 @@ Provides links to popular community wordlists:
 
 ---
 
-## 🧩 Roadmap / Future Enhancements
-
-* [ ] GUI (Tkinter / PyQt)
-* [ ] Rule‑based generation (Hashcat rules)
-* [ ] Multilingual support
-* [ ] Profile saving
-* [ ] Export formats (JSON / CSV)
-* [ ] Integration with recon tools
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
